@@ -168,7 +168,7 @@ Use the `tag="ol"` prop to create an ordered list of items with numbers.
   tag="h2"
   customSize="text-lg font-semibold"
   class="mb-2 text-lg font-semibold  text-gray-900 dark:text-white">Top students:</Heading>
-<List tag="ul" class="space-y-1">
+<List tag="ol" class="space-y-1">
   <Li><Span>Bonnie Green</Span> with <Span>70</Span> points</Li>
   <Li><Span>Jese Leos</Span> with <Span>63</Span> points</Li>
   <Li><Span>Leslie Livingston</Span> with <Span>57</Span> points</Li>
